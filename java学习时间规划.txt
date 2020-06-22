@@ -1,0 +1,11 @@
+     
+	 1.Java基础教程               时长    147：38：38                             《Java编程思想》    						 页数：767页         		                                         https://codegym.cc/		https://beginnersbook.com/		https://www.codecademy.com/
+                                                                           		https://www.coursera.org/
+	 
+	 2.Java数据结构与算法         时长    51：01：03                                https://leetcode-cn.com/
+	          
+	 3.MySQL初级+MySQL高级        时长    37：00
+	           						《mysql必知必会》+《高性能MySQL》   	 页数: 646页
+	 4.JVM虚拟机                  时长    36：56
+	 
+  查阅：http://www.javased.com/
